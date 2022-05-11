@@ -16,7 +16,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 
 <i>QUESTIONS THEY HOPE TO ANSWER WITH THE DATA</i>
-
+Using the World Happiness Report, we hope to answer the following questions: 
 
 
 
