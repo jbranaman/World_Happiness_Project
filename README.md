@@ -6,7 +6,7 @@ Our selected topic is analyzing data from the World Happiness Report. We will sp
 
 
 <i>REASONS WHY THEY SELECTED THEIR TOPIC</i>
-
+The reason why we selected this topic was to get a better understanding on the different regions in the world that people ranked that were the happiest and to see the factors that contributed to their rankings. Using that information, it would be interesting to predict for this current year, 2022, where in the world would people rank would be the happiest.
 
 
 
@@ -16,7 +16,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 
 <i>QUESTIONS THEY HOPE TO ANSWER WITH THE DATA</i>
-
+1. What will be the top 5 regions in the world that will be ranked the happiest in 2022?
 
 
 
