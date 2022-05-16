@@ -1,4 +1,4 @@
-# Capstone_Project
+# World Happiness - Final Project
 
 ### SEGMENT 1: PRESENTATION <br>
 ###### <i>SELECTED TOPIC</i>
