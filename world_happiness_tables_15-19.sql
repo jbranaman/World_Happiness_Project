@@ -39,7 +39,7 @@ CREATE TABLE world_happiness_2018 (
 	 Family NUMERIC NOT NULL,
 	 Health_Life_Expectancy NUMERIC NOT NULL,
 	 Freedom NUMERIC NOT NULL,
-	 Trust_Government_Corruption NUMERIC NOT NULL,
+	 Trust_Government_Corruption NUMERIC,
 	 Generosity NUMERIC NOT NULL
 );
 CREATE TABLE world_happiness_2019 (
