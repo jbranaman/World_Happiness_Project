@@ -1,0 +1,151 @@
+region,happiness_rank,happiness_score,economy_gdp_per_capita,family,health_life_expectancy,freedom,trust_government_corruption,generosity
+Western Europe                          ,5,7.487,1.42,1.549,0.927,0.66,0.357,0.256
+Western Europe                          ,4,7.495,1.343,1.644,0.914,0.677,0.138,0.353
+Western Europe                          ,3,7.555,1.351,1.59,0.868,0.683,0.408,0.284
+Western Europe                          ,2,7.594,1.456,1.582,0.861,0.686,0.34,0.286
+North America                           ,7,7.328,1.33,1.532,0.896,0.653,0.291,0.321
+Western Europe                          ,1,7.632,1.305,1.592,0.874,0.681,0.393,0.202
+Western Europe                          ,6,7.441,1.361,1.488,0.878,0.638,0.295,0.333
+Western Europe                          ,9,7.314,1.355,1.501,0.913,0.659,0.383,0.285
+Australia and New Zealand               ,8,7.324,1.268,1.601,0.876,0.669,0.389,0.365
+Australia and New Zealand               ,10,7.272,1.34,1.573,0.91,0.647,0.302,0.361
+Middle East and Northern Africa         ,19,6.814,1.301,1.559,0.883,0.533,0.272,0.354
+Latin America and Caribbean             ,13,7.072,1.01,1.459,0.817,0.632,0.101,0.143
+Western Europe                          ,12,7.139,1.341,1.504,0.891,0.617,0.224,0.242
+Latin America and Caribbean             ,24,6.488,1.038,1.252,0.761,0.479,0.095,0.069
+North America                           ,18,6.886,1.398,1.471,0.819,0.547,0.133,0.291
+Latin America and Caribbean             ,28,6.419,0.986,1.474,0.675,0.493,0.088,0.11
+Western Europe                          ,17,6.91,1.576,1.52,0.896,0.632,0.321,0.196
+Western Europe                          ,14,6.977,1.448,1.583,0.876,0.614,0.306,0.307
+Western Europe                          ,16,6.927,1.324,1.483,0.894,0.583,0.24,0.188
+Middle East and Northern Africa         ,20,6.774,2.096,0.776,0.67,0.284,,0.186
+Western Europe                          ,11,7.19,1.244,1.433,0.888,0.464,0.082,0.262
+Latin America and Caribbean             ,102,4.806,0.996,1.469,0.657,0.133,0.052,0.056
+Southeastern Asia                       ,34,6.343,1.529,1.451,1.008,0.631,0.457,0.261
+Latin America and Caribbean             ,27,6.43,1.112,1.438,0.759,0.597,0.063,0.125
+Western Europe                          ,15,6.965,1.34,1.474,0.861,0.586,0.28,0.273
+Latin America and Caribbean             ,25,6.476,1.131,1.331,0.808,0.431,0.061,0.197
+Middle East and Northern Africa         ,32,6.374,1.649,1.303,0.748,0.654,0.171,0.256
+Western Europe                          ,23,6.489,1.293,1.466,0.908,0.52,0.176,0.098
+Latin America and Caribbean             ,29,6.388,1.073,1.468,0.744,0.57,0.054,0.062
+Central and Eastern Europe              ,21,6.711,1.233,1.489,0.854,0.543,0.034,0.064
+Latin America and Caribbean             ,31,6.379,1.093,1.459,0.771,0.625,0.155,0.13
+Latin America and Caribbean             ,37,6.26,0.96,1.439,0.635,0.531,0.039,0.099
+Southeastern Asia                       ,46,6.072,1.016,1.417,0.707,0.637,0.029,0.364
+Middle East and Northern Africa         ,33,6.371,1.379,1.331,0.633,0.509,0.127,0.098
+Western Europe                          ,36,6.31,1.251,1.538,0.965,0.449,0.074,0.142
+Western Europe                          ,22,6.627,1.27,1.525,0.884,0.645,0.142,0.376
+Eastern Asia                            ,26,6.441,1.365,1.436,0.857,0.418,0.078,0.151
+Middle East and Northern Africa         ,45,6.083,1.474,1.301,0.675,0.554,0.106,0.167
+Latin America and Caribbean             ,40,6.167,0.806,1.231,0.639,0.461,0.082,0.065
+Latin America and Caribbean             ,30,6.382,0.781,1.268,0.608,0.604,0.071,0.179
+Central and Eastern Europe              ,44,6.096,0.719,1.584,0.605,0.724,0.259,0.328
+Central and Eastern Europe              ,39,6.173,1.21,1.537,0.776,0.354,0.014,0.118
+Eastern Asia                            ,54,5.915,1.294,1.462,0.988,0.553,0.15,0.079
+Eastern Asia                            ,57,5.875,1.266,1.204,0.955,0.244,0.051,0.175
+Latin America and Caribbean             ,48,5.973,0.889,1.33,0.736,0.556,0.12,0.114
+Middle East and Northern Africa         ,43,6.105,1.338,1.366,0.698,0.594,0.123,0.243
+Western Europe                          ,47,6,1.264,1.501,0.946,0.281,0.028,0.137
+Latin America and Caribbean             ,62,5.752,0.751,1.223,0.508,0.606,0.054,0.141
+Central and Eastern Europe              ,67,5.64,0.657,1.301,0.62,0.232,0,0.171
+Latin America and Caribbean             ,64,5.681,0.835,1.522,0.615,0.541,0.074,0.162
+Central and Eastern Europe              ,60,5.79,1.143,1.516,0.631,0.454,0.121,0.148
+Central and Eastern Europe              ,51,5.948,1.219,1.506,0.856,0.633,0.051,0.16
+Central and Eastern Europe              ,50,5.952,1.197,1.527,0.716,0.35,0.006,0.026
+Latin America and Caribbean             ,41,6.141,0.668,1.319,0.7,0.527,0.128,0.208
+Latin America and Caribbean             ,65,5.663,0.934,1.249,0.674,0.53,0.034,0.092
+Central and Eastern Europe              ,73,5.483,1.039,1.498,0.7,0.307,0.154,0.101
+Central and Eastern Europe              ,42,6.123,1.176,1.448,0.781,0.546,0.064,0.108
+Southeastern Asia                       ,35,6.322,1.161,1.258,0.669,0.356,0.059,0.311
+Central and Eastern Europe              ,82,5.321,1.115,1.161,0.737,0.38,0.039,0.12
+Middle East and Northern Africa         ,70,5.566,0.985,1.35,0.553,0.496,0.148,0.116
+Central and Eastern Europe              ,59,5.81,1.151,1.479,0.599,0.399,0.025,0.065
+Latin America and Caribbean             ,56,5.89,0.819,1.493,0.693,0.575,0.031,0.096
+Western Europe                          ,61,5.762,1.229,1.191,0.909,0.423,0.035,0.202
+Middle East and Northern Africa         ,84,5.295,0.979,1.154,0.687,0.077,0.135,0.055
+Central and Eastern Europe              ,66,5.662,0.855,1.23,0.578,0.448,0.023,0.274
+Central and Eastern Europe              ,68,5.636,1.016,1.533,0.517,0.417,0.037,0.199
+Sub-Saharan Africa                      ,55,5.891,1.09,1.387,0.684,0.584,0.05,0.245
+Eastern Asia                            ,76,5.43,1.405,1.29,1.03,0.524,0.291,0.246
+Central and Eastern Europe              ,63,5.739,1.2,1.532,0.737,0.553,0.174,0.086
+Southeastern Asia                       ,96,5.093,0.899,1.215,0.522,0.538,0.018,0.484
+Southeastern Asia                       ,95,5.103,0.715,1.365,0.702,0.618,0.079,0.177
+Middle East and Northern Africa         ,74,5.483,1.148,1.38,0.686,0.324,0.109,0.106
+Central and Eastern Europe              ,92,5.131,0.53,1.416,0.594,0.54,0.035,0.281
+Sub-Saharan Africa                      ,91,5.155,0.689,1.172,0.048,0.462,0.032,0.201
+Southern Asia                           ,97,5.082,0.796,1.335,0.527,0.541,0.171,0.364
+Central and Eastern Europe              ,87,5.201,1.024,1.161,0.603,0.43,0.176,0.031
+Southern Asia                           ,75,5.472,0.652,0.81,0.424,0.334,0.113,0.216
+Middle East and Northern Africa         ,90,5.161,0.822,1.265,0.645,0.468,0.134,0.13
+Central and Eastern Europe              ,81,5.347,1.017,1.279,0.729,0.259,0.081,0.111
+Eastern Asia                            ,86,5.246,0.989,1.142,0.799,0.597,0.103,0.029
+Sub-Saharan Africa                      ,125,4.377,0.562,1.047,0.295,0.503,0.082,0.221
+Central and Eastern Europe              ,52,5.945,1.116,1.219,0.726,0.528,0.001,0.088
+Central and Eastern Europe              ,78,5.398,0.975,1.369,0.685,0.288,0.043,0.134
+Western Europe                          ,77,5.41,1.188,1.429,0.884,0.562,0.017,0.055
+Central and Eastern Europe              ,53,5.933,1.148,1.454,0.671,0.363,0.066,0.092
+Southeastern Asia                       ,71,5.524,0.775,1.312,0.513,0.643,0.105,0.12
+Middle East and Northern Africa         ,85,5.254,0.779,0.797,0.669,0.46,0.074,0.026
+Central and Eastern Europe              ,89,5.185,0.959,1.239,0.691,0.394,0.052,0.173
+Sub-Saharan Africa                      ,123,4.417,0.198,0.902,0.173,0.531,0.158,0.206
+Central and Eastern Europe              ,112,4.586,0.916,0.817,0.79,0.419,0.032,0.149
+Central and Eastern Europe              ,93,5.129,0.915,1.078,0.758,0.28,0,0.216
+Sub-Saharan Africa                      ,141,3.808,0.472,1.215,0.079,0.423,0.112,0.116
+Latin America and Caribbean             ,83,5.302,0.982,1.441,0.614,0.578,0.106,0.12
+Southeastern Asia                       ,110,4.623,0.72,1.034,0.441,0.626,0.174,0.23
+Eastern Asia                            ,94,5.125,0.914,1.517,0.575,0.395,0.032,0.253
+Western Europe                          ,79,5.358,1.154,1.202,0.879,0.131,0.044,0
+Middle East and Northern Africa         ,80,5.358,0.965,1.179,0.785,0.503,0.136,0.214
+Central and Eastern Europe              ,69,5.62,1.171,1.401,0.732,0.259,0.022,0.061
+Latin America and Caribbean             ,72,5.504,0.62,1.205,0.622,0.459,0.074,0.197
+Central and Eastern Europe              ,88,5.199,0.474,1.166,0.598,0.292,0.034,0.187
+Middle East and Northern Africa         ,111,4.592,0.9,0.906,0.69,0.271,0.063,0.04
+Middle East and Northern Africa         ,104,4.743,0.642,1.217,0.602,0.266,0.076,0.086
+Southern Asia                           ,115,4.5,0.532,0.85,0.579,0.58,0.144,0.153
+Middle East and Northern Africa         ,106,4.707,1.059,0.771,0.691,0.459,0.129,0.282
+Central and Eastern Europe              ,138,4.103,0.793,1.413,0.609,0.163,0.011,0.187
+Middle East and Northern Africa         ,117,4.456,1.01,0.971,0.536,0.304,0.095,0.148
+Sub-Saharan Africa                      ,105,4.724,0.94,1.41,0.33,0.516,0.056,0.103
+Sub-Saharan Africa                      ,108,4.657,0.592,0.896,0.337,0.499,0.029,0.212
+Sub-Saharan Africa                      ,144,3.692,0.357,1.094,0.248,0.406,0.099,0.132
+Sub-Saharan Africa                      ,149,3.495,0.076,0.858,0.267,0.419,0.03,0.206
+Southern Asia                           ,133,4.19,0.721,0.747,0.485,0.539,0.093,0.172
+Sub-Saharan Africa                      ,137,4.139,0.605,1.24,0.312,0.016,0.082,0.134
+Latin America and Caribbean             ,148,3.582,0.315,0.714,0.289,0.025,0.104,0.392
+Sub-Saharan Africa                      ,132,4.245,0.069,1.136,0.204,0.312,0.052,0.197
+Southern Asia                           ,101,4.88,0.425,1.228,0.539,0.526,0.078,0.302
+Sub-Saharan Africa                      ,127,4.35,0.308,0.95,0.391,0.452,0.146,0.22
+Sub-Saharan Africa                      ,113,4.571,0.256,0.813,0,0.355,0.053,0.238
+Sub-Saharan Africa                      ,126,4.356,0.557,1.245,0.292,0.129,0.093,0.134
+Sub-Saharan Africa                      ,124,4.41,0.493,1.048,0.454,0.504,0.055,0.352
+Central and Eastern Europe              ,129,4.321,0.816,0.99,0.666,0.26,0.028,0.077
+Sub-Saharan Africa                      ,146,3.59,1.017,1.174,0.417,0.557,0.092,0.042
+Southeastern Asia                       ,130,4.308,0.682,1.174,0.429,0.58,0.178,0.598
+Central and Eastern Europe              ,128,4.34,0.853,0.592,0.643,0.375,0.215,0.038
+Sub-Saharan Africa                      ,147,3.587,0.186,0.541,0.306,0.531,0.08,0.21
+Southern Asia                           ,116,4.471,0.918,1.314,0.672,0.585,0.05,0.307
+Sub-Saharan Africa                      ,99,4.975,0.535,0.891,0.182,0.454,0.043,0.183
+Central and Eastern Europe              ,100,4.933,1.054,1.515,0.712,0.359,0.009,0.064
+Middle East and Northern Africa         ,122,4.419,0.885,1.025,0.553,0.312,0.107,0.092
+Middle East and Northern Africa         ,152,3.355,0.442,1.073,0.343,0.244,0.064,0.083
+Sub-Saharan Africa                      ,142,3.795,0.73,1.125,0.269,0,0.061,0.079
+Sub-Saharan Africa                      ,118,4.447,0.37,1.233,0.152,0.367,0.056,0.139
+Sub-Saharan Africa                      ,114,4.559,0.682,0.811,0.343,0.514,0.077,0.091
+Sub-Saharan Africa                      ,135,4.161,0.322,1.09,0.237,0.45,0.061,0.259
+Sub-Saharan Africa                      ,109,4.631,0.429,1.117,0.433,0.406,0.082,0.138
+Sub-Saharan Africa                      ,103,4.758,1.036,1.164,0.404,0.356,0.052,0.032
+Sub-Saharan Africa                      ,134,4.166,0.131,0.867,0.221,0.39,0.099,0.175
+Southeastern Asia                       ,120,4.433,0.549,1.088,0.457,0.696,0.065,0.256
+Sub-Saharan Africa                      ,153,3.303,0.455,0.991,0.381,0.481,0.097,0.27
+Sub-Saharan Africa                      ,143,3.774,0.262,0.908,0.402,0.221,0.049,0.155
+Sub-Saharan Africa                      ,155,3.083,0.024,0,0.01,0.305,0.038,0.218
+Sub-Saharan Africa                      ,131,4.301,0.358,0.907,0.053,0.189,0.06,0.181
+Sub-Saharan Africa                      ,140,3.964,0.344,0.792,0.211,0.394,0.094,0.185
+Sub-Saharan Africa                      ,107,4.671,0.541,0.872,0.08,0.467,0.103,0.146
+Sub-Saharan Africa                      ,121,4.424,0.314,1.097,0.254,0.312,0.128,0.175
+Southern Asia                           ,145,3.632,0.332,0.537,0.255,0.085,0.036,0.191
+Sub-Saharan Africa                      ,151,3.408,0.332,0.896,0.4,0.636,0.444,0.2
+Sub-Saharan Africa                      ,136,4.141,0.378,0.372,0.24,0.44,0.067,0.163
+Middle East and Northern Africa         ,150,3.462,0.689,0.382,0.539,0.088,0.144,0.376
+Sub-Saharan Africa                      ,156,2.905,0.091,0.627,0.145,0.065,0.076,0.149
+Sub-Saharan Africa                      ,139,3.999,0.259,0.474,0.253,0.434,0.101,0.158
