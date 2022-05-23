@@ -19,3 +19,24 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 1. What will be the top 5 regions in the world that will be ranked the happiest in 2022?
 2. What is the average family income for the top 5 regions ranked the happiest?
 3. What is the life-span of those who live in the regions ranked the 5 least happiest?
+
+
+### SEGMENT 2 <br>
+###### <i>PRESENTATION</i>
+
+
+###### <i>GITHUB</i>
+File names:
+
+
+###### <i>MACHINE LEARNING MODEL</i>
+Models tested:
+
+
+###### <i>DATABASE</i>
+
+
+###### <i>DASHBOARD</i>
+
+
+
