@@ -27,13 +27,25 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 ###### <i>GITHUB</i>
 File names:
+* 2015_machine_learning.ipynb
+* world_happiness.sql
+* world_happiness_join_tables.sql
+* world_happiness_tables_15-19.sql
 
 
 ###### <i>MACHINE LEARNING MODEL</i>
 Models tested:
+* Random Forest Classifier
+* Easy Ensemble AdaBoost Classifier
+* Random Oversampling
+
+Model results:
+
 
 
 ###### <i>DATABASE</i>
+
+
 
 
 ###### <i>DASHBOARD</i>
