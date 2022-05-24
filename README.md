@@ -33,8 +33,8 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 ## GITHUB - README.md <br>
 
-S1 - Description of the communication protocols.
-S2 - Outline of the project (may include images, but should be easy to follow and digest).
+###### <i>S1 - Description of the communication protocols.</i><br>
+###### <i>S2 - Outline of the project (may include images, but should be easy to follow and digest).</i><br>
 
 
 ## GITHUB - CONTENT <br>
