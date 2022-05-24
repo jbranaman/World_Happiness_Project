@@ -23,6 +23,12 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 ### SEGMENT 2 <br>
 ###### <i>PRESENTATION</i>
+Big Picture Question: What region in the world will be the happiest place to live?
+
+Data Exploration Phase: 
+
+Analysis Phase: 
+
 
 
 ###### <i>GITHUB</i>
