@@ -23,16 +23,16 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 ### SEGMENT 2 <br>
 ###### <i>PRESENTATION</i>
-Big Picture Question: What region in the world will be the happiest place to live?
+**Big Picture Question:** What region in the world will be the happiest place to live?
 
-Data Exploration Phase: 
+**Data Exploration Phase:** 
 
-Analysis Phase: 
+**Analysis Phase:** 
 
 
 
 ###### <i>GITHUB</i>
-File names:
+**File names:**
 * 2015_machine_learning.ipynb
 * world_happiness.sql
 * world_happiness_join_tables.sql
@@ -40,12 +40,12 @@ File names:
 
 
 ###### <i>MACHINE LEARNING MODEL</i>
-Models tested:
+**Models tested:**
 * Random Forest Classifier
 * Easy Ensemble AdaBoost Classifier
 * Random Oversampling
 
-Model results:
+**Model results:**
 
 
 
