@@ -57,7 +57,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 ###### <i>S2 - Description of how data was spllit into training and testing sets.</i>
 ###### <i>S2 - Explanation of model choice, including limitations and benefits. </i>
 
-
+Before we could start building our model, we had to clean our data. Using Jupyter Notebook, we read in each of our files (2015-2019) and removed unnecessary columns, and changed column names so that each year's columns would align. Next, we assigned a number (1-10) to each region. Lastly, we converted the column 'Happiness Score' from a range of 0-10 to 0 (low) and 1 (high). 
 
 
 **Models tested:**
