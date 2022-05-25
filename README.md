@@ -77,6 +77,8 @@ Database connects to the model. <br>
 Connected to machine learning model using SQLAlchemy. <br>
 
 ###### <i>S2 - SQL Database ERD:</i>
+See 'SQL Database ERD.pdf' file. <br>
+
 ![SQL Database ERD](https://user-images.githubusercontent.com/96451672/170295915-043176ca-1a30-4d0d-8a20-241413d302a1.png) <br>
 
 ###### <i>S2 - Includes at least two tables:</i>
