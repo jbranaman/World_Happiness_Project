@@ -70,9 +70,22 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 
 ## DATABASE <br>
+###### <i>S2 - Database interfaces with the project in some format:</i>
+Database connects to the model. <br>
 
+###### <i>S2 - Includes at least one connection string:</i>
+Connected to machine learning model using SQLAlchemy. <br>
 
+###### <i>S2 - SQL Database ERD:</i>
+![SQL Database ERD](https://user-images.githubusercontent.com/96451672/170295915-043176ca-1a30-4d0d-8a20-241413d302a1.png) <br>
 
+###### <i>S2 - Includes at least two tables:</i>
+See 'world_happiness_tables_15-19.sql' file. <br>
+
+###### <i>S2 - Includes at least one join using the database language:</i>
+See 'world_happiness_join_tables.sql' file. <br>
+
+<img width="1206" alt="SQL Join Tables Query" src="https://user-images.githubusercontent.com/96451672/170297208-2a8d1308-43a7-4361-9197-79c95cde2dbe.png"> <br>
 
 ## DASHBOARD <br>
 
