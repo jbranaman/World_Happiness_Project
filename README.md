@@ -73,7 +73,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 ###### <i>S3 - Description of how they have trained the model thus far, and any additional training that will take place.</i><br>
 ###### <i>S3 - Description of current accuracy score.</i><br>
 ###### <i>S4 - Description and explanation of model’s confusion matrix, including final accuracy score.</i><br>
- 
+![1](https://github.com/jbranaman/Capstone_Project/blob/main/images_final/1.png)
  
 Before we could start building our model, we had to clean our data. Using Jupyter Notebook, we read in each of our files (2015-2019) and removed unnecessary columns, and changed column names so that each year's columns would align. Next, we assigned a number (1-10) to each region. Lastly, we converted the column 'Happiness Score' from a range of 0-10 to 0 (low) and 1 (high). 
  ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-25%20at%207.10.03%20PM.png)
