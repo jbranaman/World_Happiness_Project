@@ -1,6 +1,8 @@
 # World Happiness - Capstone Project
 
 ## PRESENTATION <br>
+
+link to presentation (https://docs.google.com/presentation/d/1AZAHoBO62K7w25aLe06KhCUYCM8lwJU0Mf8bp9vBhC0/edit#slide=id.p)
 ###### <i>S1 - SELECTED TOPIC</i>
 Our selected topic is analyzing data from the World Happiness Report. We will specifically be comparing 2015 and 2016 and then use machine learning to make predictions about 2022. We believe it will be interesting to analyze this data using variables like region, economy, and life expectancy. 
 
