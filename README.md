@@ -43,6 +43,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 * world_happiness.sql
 * world_happiness_join_tables.sql
 * world_happiness_tables_15-19.sql
+* SQL Database ERD.pdf
 
 
 
