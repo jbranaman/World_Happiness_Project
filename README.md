@@ -62,20 +62,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
 ## MACHINE LEARNING MODEL <br>
 
-
-###### <i>S1 - Takes in data from the provisional database.</i><br>
-###### <i>S1 - Outputs label(s) for the input data. </i><br>
-###### <i>S2 - Description of preliminary data processing.</i><br>
-###### <i>S2 - Description of prelimnary feature engineering and prelimanry feature selection, including their decision-making process.</i><br>
-###### <i>S2 - Description of how data was split into training and testing sets.</i><br>
-###### <i>S2 - Explanation of model choice, including limitations and benefits. </i><br>
-###### <i>S3 - Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables).</i><br>
-###### <i>S3 - Description of how they have trained the model thus far, and any additional training that will take place.</i><br>
-###### <i>S3 - Description of current accuracy score.</i><br>
-###### <i>S4 - Description and explanation of model’s confusion matrix, including final accuracy score.</i><br>
-![1](https://github.com/jbranaman/Capstone_Project/blob/main/images_final/1.png)
-
- ###### <i>S2 - Description of preliminary data processing.</i><br>
+ ###### <i>S1 - Description of preliminary data processing.</i><br>
 Before we could start building our model, we had to clean our data. Using Jupyter Notebook, we read in each of our files (2015-2019) and removed unnecessary columns, and changed column names so that each year's columns would align. Next, we assigned a number (1-10) to each region. Lastly, we converted the column 'Happiness Score' from a range of 0-10 to 0 (low) and 1 (high). 
 
 ###### <i>S2 - Description of prelimnary feature engineering and prelimanry feature selection, including their decision-making process.</i><br>
@@ -84,20 +71,13 @@ For our features, we are using 'Happiness Score' as our Y value as that is the f
 
  ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-25%20at%207.10.03%20PM.png)
 
-###### <i>S2 - Description of how data was split into training and testing sets.</i><br>
+###### <i>S3 - Description of how data was split into training and testing sets.</i><br>
 We then split our data into training and testing data before we proceeded with our models:
 
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.05.53%20AM.png)
 
-
-**Models tested:**
-* Random Forest Classifier
-* Easy Ensemble AdaBoost Classifier
-* Random Oversampling
-* Undersampling
-* Combination (Over and Under) Sampling
-
-**Model results:**
+###### <i>S4 - Explanation of model choice, including limitations and benefits
+**Modles tested and their results:**
 * Random Forest Classifier
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
 * Easy Ensemble AdaBoost Classifier
