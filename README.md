@@ -64,6 +64,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 
  ###### <i>S1 - Description of preliminary data processing.</i><br>
 Before we could start building our model, we had to clean our data. Using Jupyter Notebook, we read in each of our files (2015-2019) and removed unnecessary columns, and changed column names so that each year's columns would align. Next, for 2015 specifcally, we assigned a number (1-10) to each region. Lastly, we converted the column 'Happiness Score' from a range of 0-10 to 0 (low) and 1 (high). 
+ ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.35.17%20AM.png)
 
 ###### <i>S2 - Description of prelimnary feature engineering and prelimanry feature selection, including their decision-making process.</i><br>
 After we had cleaned our data and created our SQL database in Postgres, we reuploaded our data using SQLAlchemy. Once that was complete, we started building our machine learning model using out 2015 dataset. 
