@@ -79,14 +79,24 @@ We then split our data into training and testing data before we proceeded with o
 ###### <i>S4 - Explanation of model choice, including limitations and benefits
 **Modles tested and their results:**
 * Random Forest Classifier
+ * Testing Accuracy Score: 83.3%
+ * Training Accuracy Score: 98.6%
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
 * Easy Ensemble AdaBoost Classifier
+ * Testing Accuracy Score: 81.2%
+ * Training Accuracy Score: 97.1%
  ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
 * Random Oversampling
+ * Testing Accuracy Score:87.5%
+ * Training Accuracy Score: 87.8%
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.11.41%20AM.png)
 * Undersampling
+ * Testing Accuracy Score: 87.5%
+ * Training Accuracy Score: 86.5%
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.12.31%20AM.png)
 * Combination (Over and Under) Sampling
+ * Testing Accuracy Score: 90.6% 
+ * Training Accuracy Score: 84.6%
 *![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.12.31%20AM.png)
 
 
