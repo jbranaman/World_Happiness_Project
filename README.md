@@ -91,9 +91,20 @@ We then split our data into training and testing data before we proceeded with o
 * Random Forest Classifier
 * Easy Ensemble AdaBoost Classifier
 * Random Oversampling
+* Undersampling
+* Combination (Over and Under) Sampling
 
 **Model results:**
-
+* Random Forest Classifier
+![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
+* Easy Ensemble AdaBoost Classifier
+ ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
+* Random Oversampling
+![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.11.41%20AM.png)
+* Undersampling
+![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.12.31%20AM.png)
+* Combination (Over and Under) Sampling
+*![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.12.31%20AM.png)
 
 
 ## DATABASE <br>
