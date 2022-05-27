@@ -63,7 +63,7 @@ We downloaded our dataset from Kaggle, originially from the World Happiness Repo
 ## MACHINE LEARNING MODEL <br>
 
  ###### <i>S1 - Description of preliminary data processing.</i><br>
-Before we could start building our model, we had to clean our data. Using Jupyter Notebook, we read in each of our files (2015-2019) and removed unnecessary columns, and changed column names so that each year's columns would align. Next, we assigned a number (1-10) to each region. Lastly, we converted the column 'Happiness Score' from a range of 0-10 to 0 (low) and 1 (high). 
+Before we could start building our model, we had to clean our data. Using Jupyter Notebook, we read in each of our files (2015-2019) and removed unnecessary columns, and changed column names so that each year's columns would align. Next, for 2015 specifcally, we assigned a number (1-10) to each region. Lastly, we converted the column 'Happiness Score' from a range of 0-10 to 0 (low) and 1 (high). 
 
 ###### <i>S2 - Description of prelimnary feature engineering and prelimanry feature selection, including their decision-making process.</i><br>
 After we had cleaned our data and created our SQL database in Postgres, we reuploaded our data using SQLAlchemy. Once that was complete, we started building our machine learning model using out 2015 dataset. 
@@ -79,24 +79,24 @@ We then split our data into training and testing data before we proceeded with o
 ###### <i>S4 - Explanation of model choice, including limitations and benefits
 **Models tested and their results:**
 * Random Forest Classifier
- * Testing Accuracy Score: 83.3%
- * Training Accuracy Score: 98.6%
+  * Testing Accuracy Score: 83.3%
+  * Training Accuracy Score: 98.6%
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
 * Easy Ensemble AdaBoost Classifier
- * Testing Accuracy Score: 81.2%
- * Training Accuracy Score: 97.1%
+  * Testing Accuracy Score: 81.2%
+  * Training Accuracy Score: 97.1%
  ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
 * Random Oversampling
- * Testing Accuracy Score:87.5%
- * Training Accuracy Score: 87.8%
+  * Testing Accuracy Score:87.5%
+  * Training Accuracy Score: 87.8%
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.11.41%20AM.png)
 * Undersampling
- * Testing Accuracy Score: 87.5%
- * Training Accuracy Score: 86.5%
+  * Testing Accuracy Score: 87.5%
+  * Training Accuracy Score: 86.5%
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.12.31%20AM.png)
 * Combination (Over and Under) Sampling
- * Testing Accuracy Score: 90.6% 
- * Training Accuracy Score: 84.6%
+  * Testing Accuracy Score: 90.6% 
+  * Training Accuracy Score: 84.6%
 *![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.12.31%20AM.png)
 
 **Model choice:**
