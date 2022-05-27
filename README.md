@@ -100,13 +100,14 @@ We then split our data into training and testing data before we proceeded with o
 *![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.12.31%20AM.png)
 
 **Model choice:**
- *We are proceeding with the Combination (under & over) sampling model for the following reasons:
-  *This model gave us our highest accuracy score, at 90.6%
-  *This model does not appear to be overfit, with the training and testing accuracy scores being only 5% different and the testing accuracy score being higher. We believe this model will be able to take in new data and perform well
+  *We are proceeding with the Combination (under & over) sampling model for the following reasons:
+    *This model gave us our highest accuracy score, at 90.6%
+    *This model does not appear to be overfit, with the training and testing accuracy scores being only 5% different and the testing accuracy score being  higher. We believe this model will be able to take in new data and perform well
   *When looking closer at the classification report, this model gave us our highest precision score (91%) and our highest f1 score (90%)
+ 
  *Limitations for this model:
-  *While we are happy with the results of our model, one area of improvement would be in the precision score, specifically for '0', which is only at 83%. We would ideally like to improve that number, so the model gets better at predicting '0'. 
- *The largest limitation of our model is that it is currently only taking in our 2015 dataset. One further recomendation would be to also include our datasets from 2016-2019 and compare those results. 
+   *While we are happy with the results of our model, one area of improvement would be in the precision score, specifically for '0', which is only at 83%. We would ideally like to improve that number, so the model gets better at predicting '0'. 
+   *The largest limitation of our model is that it is currently only taking in our 2015 dataset. One further recomendation would be to also include our datasets from 2016-2019 and compare those results. 
  
  
 ## DATABASE <br>
