@@ -72,12 +72,12 @@ For our features, we are using 'Happiness Score' as our Y value as that is the f
 
  ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-25%20at%207.10.03%20PM.png)
 
-###### <i>S3 - Description of how data was split into training and testing sets.</i><br>
+###### <i>S2 - Description of how data was split into training and testing sets.</i><br>
 We then split our data into training and testing data before we proceeded with our models:
 
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.05.53%20AM.png)
 
-###### <i>S4 - Explanation of model choice, including limitations and benefits
+###### <i>S2 - Explanation of model choice, including limitations and benefits
 **Models tested and their results:**
 * Random Forest Classifier
   * Testing Accuracy Score: 83.3%
