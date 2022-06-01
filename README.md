@@ -102,7 +102,8 @@ We then split our data into training and testing data before we proceeded with o
 
 **Model choice:**
   * We are proceeding with a logistic regression model, using the Combination (under & over) sampling for the following reasons:
-    * This model gave us our highest accuracy score, at 90.6%
+    * We are using a logistic regression model because we are classifying regions as either 'Low' or 'High' 
+    * This sampling technique gave us our highest accuracy score, at 90.6%
     * This model does not appear to be overfit, with the training and testing accuracy scores being only 5% different and the testing accuracy score being  higher. We believe this model will be able to take in new data and perform well
   * When looking closer at the classification report, this model gave us our highest precision score (91%) and our highest f1 score (90%)
  
