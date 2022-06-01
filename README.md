@@ -2,8 +2,8 @@
 
 ## PRESENTATION <br>
 
-link to presentation (https://docs.google.com/presentation/d/1AZAHoBO62K7w25aLe06KhCUYCM8lwJU0Mf8bp9vBhC0/edit#slide=id.p)
-link to dashboard
+For Google slides, click [here](https://docs.google.com/presentation/d/1AZAHoBO62K7w25aLe06KhCUYCM8lwJU0Mf8bp9vBhC0/edit#slide=id.p)<br>
+For Tableau Dashboard, click [here]
 
 
 ###### <i>S1 - SELECTED TOPIC</i>
