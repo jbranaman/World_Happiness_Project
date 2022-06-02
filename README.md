@@ -2,11 +2,14 @@
 # World Happiness - Capstone Project
 
 # Overview <br>
-## Selected topic, Reason why, Source of Data, Question answered.
-Our selected topic is analyzing data from select years from the World Happiness Report. We selected this topic because we thought it would be interesting to know where in the world people are happiest and how this changes throughout time. Some questions we hoped to answers are what the overall happiness region is from 2015-19 and what factors contribute to the happiest and least happiest regions in the world. The source of CSV data came from Kaggle which originally came from [The World Happiness Report](https://worldhappiness.report/). They've been conducting a global survey of over 150 countries for the past ten years. 
+## Selected topic, Reason why, Questions to answers
+Our selected topic is analyzing data from select years from the World Happiness Report. We selected this topic because we thought it would be interesting to know where in the world people are happiest and how this changes throughout time. Some questions we hoped to answers are what the overall happiest region is from years 2015-19 and what factors contribute to the happiest and least happiest regions in the world. With our machine learning model, we wanted to know what factor or factors contribute to the most happiest regions in the world. 
+
+## Source of Data
+The source of CSV data came from Kaggle which originally came from [The World Happiness Report](https://worldhappiness.report/). They've been conducting a global survey of over 150 countries for the past ten years. 
 
 ## Description of data exploration and analysis phase. 
-
+We decided to use 2015 for for our machine learning model and use 2015-2019 for data analysis to see trends and show visualizations. 
 
 
 ## Communication Protocols <br>
