@@ -3,7 +3,7 @@
 ## PRESENTATION <br>
 
 For Google slides, click [here](https://docs.google.com/presentation/d/1AZAHoBO62K7w25aLe06KhCUYCM8lwJU0Mf8bp9vBhC0/edit#slide=id.p)<br>
-For Tableau Dashboard, click [here](https://public.tableau.com/authoring/GDPandLifeExpectancy_16538500108510/Sheet1/Dashboard%201#2)
+For Tableau Dashboard, click [here](https://public.tableau.com/app/profile/madelyn.pineault/viz/WorldHappinessReport_16540413532210/WORLDHAPPINESS?publish=yes)
 
 
 ###### <i>S1 - SELECTED TOPIC</i>
@@ -77,7 +77,7 @@ We then split our data into training and testing data before we proceeded with o
 
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.05.53%20AM.png)
 
-###### <i>S2 - Explanation of model choice, including limitations and benefits
+###### <i>S2 - Explanation of model choice, including limitations and benefits</i>
 **Models tested and their results:**
 * Random Forest Classifier
   * Testing Accuracy Score: 83.3%
@@ -134,10 +134,10 @@ See 'world_happiness_join_tables.sql' file. <br>
 
 ## DASHBOARD <br>
 
- S2 - Our data will be displayed using Tableau Public, a free software that allows for a wide variety of Data Visualization options. 
+ <i> S2 - Our data will be displayed using Tableau Public, a free software that allows for a wide variety of Data Visualization options. </i>
  
  
- This [link](https://public.tableau.com/authoring/GDPandLifeExpectancy_16538500108510/Sheet1/Dashboard%201#2) will show a basic graphic using 2015 data:
+ This [link](https://public.tableau.com/app/profile/madelyn.pineault/viz/WorldHappinessReport_16540413532210/WORLDHAPPINESS?publish=yes) will show a basic graphic using 2015 data:
  
  
  Our final dashboard will include many more visual representations of the data from years 2015 - 2019. 
