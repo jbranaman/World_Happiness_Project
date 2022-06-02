@@ -3,7 +3,7 @@
 ## PRESENTATION <br>
 
 For Google slides, click [here](https://docs.google.com/presentation/d/1AZAHoBO62K7w25aLe06KhCUYCM8lwJU0Mf8bp9vBhC0/edit#slide=id.p)<br>
-For Tableau Dashboard, click [here]
+For Tableau Dashboard, click [here](https://public.tableau.com/authoring/GDPandLifeExpectancy_16538500108510/Sheet1/Dashboard%201#2)
 
 
 ###### <i>S1 - SELECTED TOPIC</i>
@@ -137,8 +137,8 @@ See 'world_happiness_join_tables.sql' file. <br>
  S2 - Our data will be displayed using Tableau Public, a free software that allows for a wide variety of Data Visualization options. 
  
  
- This link will show a basic graphic using 2015 data:
- https://public.tableau.com/authoring/GDPandLifeExpectancy_16538500108510/Sheet1/Dashboard%201#2
+ This [link](https://public.tableau.com/authoring/GDPandLifeExpectancy_16538500108510/Sheet1/Dashboard%201#2) will show a basic graphic using 2015 data:
+ 
  
  Our final dashboard will include many more visual representations of the data from years 2015 - 2019. 
  
