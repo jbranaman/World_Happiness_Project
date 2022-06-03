@@ -111,6 +111,8 @@ We then split our data into training and testing data before we proceeded with o
    * While we are happy with the results of our model, one area of improvement would be in the precision score, specifically for '0', which is only at 83%. We would ideally like to improve that number, so the model gets better at predicting '0'. 
    * The largest limitation of our model is that it is currently only taking in our 2015 dataset. One further recomendation would be to also include our datasets from 2016-2019 and compare those results. 
  
+ **Testing our model with new data:**
+  * Once we chose our model, we wanted to see how it would perform with a different dataset. This time, we chose the 2022 happiness dataset that was recently released. When we fed in the 2022 dataset into our model, we saw a lower accuracy score of 81%. Although the model performed less accurately, we are still comfortable with an 81% accuracy score. One thing that remained constant was GDP remained our heaviest weighed variable. 
  
 ## DATABASE <br>
 ###### <i>S2 - Database interfaces with the project in some format:</i>
