@@ -86,7 +86,7 @@ We then split our data into training and testing data before we proceeded with o
 * Easy Ensemble AdaBoost Classifier
   * Testing Accuracy Score: 81.2%
   * Training Accuracy Score: 97.1%
- ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-05-27%20at%2011.10.00%20AM.png)
+ ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-06-03%20at%201.35.59%20PM.png)
 * Logistic Regression - Random Oversampling
   * Testing Accuracy Score:87.5%
   * Training Accuracy Score: 87.8%
