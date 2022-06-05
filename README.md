@@ -139,10 +139,30 @@ See 'world_happiness_join_tables.sql' file. <br>
  <i> S2 - Our data will be displayed using Tableau Public, a free software that allows for a wide variety of Data Visualization options. </i>
  
  
- This [link](https://public.tableau.com/app/profile/madelyn.pineault/viz/WorldHappinessReport_16540413532210/WORLDHAPPINESS?publish=yes) will show a basic graphic using 2015 data:
- 
- 
- Our final dashboard will include many more visual representations of the data from years 2015 - 2019. 
+ This [link]([https://public.tableau.com/app/profile/madelyn.pineault/viz/WorldHappinessReport_16540413532210/WORLDHAPPINESS?publish=yes](https://public.tableau.com/app/profile/madelyn.pineault/viz/WorldHappinessReport_16540413532210/WORLDHAPPINESS?publish=yes)) shows our visualization dashboard. 
  
 
+ <i> S3 - Our dashboard contains visualizations using data from Kaggle's 2015-2019 World Happiness Report dataset. We chose to visualize data from the Happiness Score, Happiness Rank, Trust, Freedom, and GDP columns of the data sets. These data are consistent over time, and can be used to show trends in Happiness. 
+ 
+##### Happiness Score
+Happiness Score is collected by asking participants to rank their happiness on a scale from 1-10. 
+ 
+![]()
+ 
+##### Happiness Rank
+Happiness Rank is the rank assigned to each nation (here, grouped into Regions) after the Happiness Score data is collected.
+ 
+![]()
+ 
+##### Trust
+ 
+![]()
+ 
+ 
+##### Freedom
+ 
+![]()
+ 
+##### GDP per Capita
 
+ ![]()
