@@ -98,7 +98,7 @@ We then split our data into training and testing data before we proceeded with o
 * Logistic Regression - Combination (Over and Under) Sampling
   * Testing Accuracy Score: 90.6% 
   * Training Accuracy Score: 84.6%
-*![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-06-06%20at%208.52.35%20PM.png)
+![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-06-06%20at%208.52.35%20PM.png)
 
 **Model choice:**
   * We are proceeding with a logistic regression model, using the Combination (under & over) sampling for the following reasons:
