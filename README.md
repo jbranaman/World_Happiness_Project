@@ -149,22 +149,22 @@ See 'world_happiness_join_tables.sql' file. <br>
 ##### Happiness Score
 Happiness Score is collected by asking participants to rank their happiness on a scale from 1-10. 
  
-![hap_score_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/Happiness%20Score.png)
+![hap_score_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/HappinessScore.png)
  
 ##### Happiness Rank
 Happiness Rank is the rank assigned to each nation (here, grouped into Regions) after the Happiness Score data is collected.
  
-![hap_rank_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/Happiness%20Rank.png)
+![hap_rank_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/HappinessRank.png)
  
 ##### Trust
  
-![trust_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/Trust%20in%20Government.png)
+![trust_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/TrustGovernment.png)
  
  
 ##### Freedom                        
  
-![free_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/Freedom%20Perception.png)
+![free_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/FreedomPerception.png)
 
 ##### GDP per Capita
 
- ![gdp_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/GDP%20Per%20Capita.png)
+ ![gdp_img](https://github.com/jbranaman/Capstone_Project/blob/main/Tableau%20Visualizations/EconomicOutputGDP.png)
