@@ -90,7 +90,7 @@ We then split our data into training and testing data before we proceeded with o
   * Training Accuracy Score: 84.6%
   
 ![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-06-06%20at%208.52.35%20PM.png)
-
+![image](https://github.com/jbranaman/Capstone_Project/blob/main/Resources/Screen%20Shot%202022-06-08%20at%206.09.19%20PM.png)
 **Model choice:**
   * We are proceeding with a logistic regression model, using the Combination (under & over) sampling for the following reasons:
     * We are using a logistic regression model because we are classifying regions as either 'Low' or 'High' 
