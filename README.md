@@ -13,22 +13,22 @@ We decided to use 2015 for for our machine learning model and use 2015-2019 for 
 
 
 ## Communication Protocols <br>
-The five members in our group used Slack and Google Hangout to communicate in and outside of class. In addition to the class meetings twice a week, we have been meeting once a week outside of class time.  
+The five members in our group used Slack and Google Hangout to communicate in and outside of class. In addition to the class meetings twice a week, we have been meeting at least once a week outside of class time.  
 
 
 
 **Data Exploration Phase:** 
 
-###### <i>S2 - DESCRIPTION OF THE ANALYSIS PHASE OF THE PROJECT</i><br>
-**Analysis Phase:** 
+###### <i>DESCRIPTION OF THE ANALYSIS PHASE OF THE PROJECT</i><br>
 
 
+###### <i>Technologies, languages, tools, and algorithms used throughout the project</i><br>
+We used Python, Jupyter Notebook, PostGres, PGAdmin, SQLAlchemy, and Tableau.
 
-###### <i>S3 - Technologies, languages, tools, and algorithms used throughout the project</i><br>
+###### <i> Recommendation for future analysis. </i><br>
+Our recommencations for for future analysis would be to include additional years in the machine learning model.
 
-###### <i>S4 - Recommendation for future analysis. </i><br>
-
-###### <i>S4 - Anything the team would have done differently.</i><br>
+###### <i> Anything the team would have done differently.</i><br>
 
 
 ## GITHUB - README.md <br>
