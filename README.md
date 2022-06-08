@@ -29,6 +29,9 @@ We decided to use 2015 for for our machine learning model and use 2015-2019 for 
 - Tableu
 - SQLAlchemy
 
+###### <i> Results of Analysis </i><br>
+The results of our analysis showed that Australia and New Zealand were consistently the happiest region based on the 2015-2019 dataset.  We also found that GDP was the most important feature based off our machine learning model.  We also found that trust in government and freedom were the least important features to the happiness score. 
+
 ###### <i> Recommendation for future analysis. </i><br>
 We recommended using additional years for the machine learning model. 
 
