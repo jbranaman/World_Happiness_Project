@@ -1,47 +1,37 @@
 # World Happiness - Capstone Project
 
-## PRESENTATION <br>
+# PRESENTATION <br>
 
 For Google slides, click [here](https://docs.google.com/presentation/d/1AZAHoBO62K7w25aLe06KhCUYCM8lwJU0Mf8bp9vBhC0/edit#slide=id.p)<br>
 For Tableau Dashboard, click [here](https://public.tableau.com/app/profile/madelyn.pineault/viz/WorldHappinessReport_16540413532210/WORLDHAPPINESS?publish=yes)
 
 
-###### <i>S1 - SELECTED TOPIC</i>
-Our selected topic is analyzing data from the World Happiness Report. We will specifically be comparing 2015 and 2016 and then use machine learning to make predictions about 2022. We believe it will be interesting to analyze this data using variables like region, economy, and life expectancy. 
+# Overview <br>
+## Selected topic, Reason why, Questions to answers
+Our selected topic is analyzing data from select years from the World Happiness Report. We selected this topic because we thought it would be interesting to know where in the world people are happiest and how this changes throughout time. Some questions we hoped to answers are what the overall happiest region is from years 2015-19 and what factors contribute to the happiest and least happiest regions in the world. With our machine learning model, we wanted to know what factor or factors contribute to the most happiest regions in the world. 
+
+## Source of Data
+The source of CSV data came from Kaggle which originally came from [The World Happiness Report](https://worldhappiness.report/). They've been conducting a global survey of over 150 countries for the past ten years. 
+
+## Description of data exploration and analysis phase. 
+We decided to use 2015 for for our machine learning model and use 2015-2019 for data analysis to see trends and show visualizations. 
+
+###### <i>QUESTIONS THEY HOPE TO ANSWER WITH THE DATA</i>
+1. From 2015 - 2019, what is the happiest region in the world?
+2. What factors contribute to the happiest regions?
+3. What factors contribute to the happiest regions?
 
 
-###### <i>S1 - REASONS WHY THEY SELECTED THEIR TOPIC</i>
-The reason why we selected this topic was to get a better understanding on the different regions in the world that people ranked that were the happiest and to see the factors that contributed to their rankings. Using that information, it would be interesting to predict for this current year, 2022, where in the world would people rank would be the happiest.
+###### <i> Technologies, languages, tools, and algorithms used throughout the project</i><br>
+- Python
+- Jupyter Notebook
+- PostGres, PGAdmin
+- Tableu
+- SQLAlchemy
 
+###### <i> Recommendation for future analysis. </i><br>
 
-
-###### <i>S1 - DESCRIPTION OF THEIR SOURCE OF DATA</i>
-We downloaded our dataset from Kaggle, originially from the World Happiness Report. 
-
-
-
-###### <i>S1 - QUESTIONS THEY HOPE TO ANSWER WITH THE DATA</i>
-1. What will be the top 5 regions in the world that will be ranked the happiest in 2022?
-2. What is the average family income for the top 5 regions ranked the happiest?
-3. What is the life-span of those who live in the regions ranked the 5 least happiest?
-
-
-
-###### <i>S2 - DESCRIPTION OF THE DATA EXPLORATION PHASE OF THE PROJECT</i>
-**Big Picture Question:** What region in the world will be the happiest place to live?
-
-**Data Exploration Phase:** 
-
-###### <i>S2 - DESCRIPTION OF THE ANALYSIS PHASE OF THE PROJECT</i><br>
-**Analysis Phase:** 
-
-
-
-###### <i>S3 - Technologies, languages, tools, and algorithms used throughout the project</i><br>
-
-###### <i>S4 - Recommendation for future analysis. </i><br>
-
-###### <i>S4 - Anything the team would have done differently.</i><br>
+###### <i> Anything the team would have done differently.</i><br>
 
 
 ## GITHUB - README.md <br>
